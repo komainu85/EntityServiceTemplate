@@ -86,7 +86,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="EntityServiceEmpty.js" />
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
