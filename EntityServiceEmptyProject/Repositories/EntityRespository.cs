@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Web;
-using Mike.Robbins.EntityServiceEmptyProject.Models;
+using $safeprojectname$.Models;
 
-namespace Mike.Robbins.EntityServiceEmptyProject.Repositories
+namespace $safeprojectname$.Repositories
 {
     public class EntityRespository : Sitecore.Services.Core.IRepository<Entity>
     {
